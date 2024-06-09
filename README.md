@@ -1,23 +1,24 @@
 
 <h2 align="center">Hi, there 👋! I'm Aleksandr, a Backend Developer </h2>
+
 <div align="center">
-<a href="https://t.me/a_s_zabolotnyi" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://stepik.org/users/473170651/profile" target="_blank">
-<img src=https://img.shields.io/badge/stepik-black.svg?&style=for-the-badge&logo=stepik&logoColor=white alt=stepik style="margin-bottom: 5px;" />
-</a>  
-
-<!--
-<a href="https://github.com/Manifoldz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
--->
-
-<a href="https://linkedin.com/in/александр-заболотный-a3418120a?trk=contact-info" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://t.me/a_s_zabolotnyi" target="_blank">
+    <img src=https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://stepik.org/users/473170651/profile" target="_blank">
+    <img src=https://img.shields.io/badge/stepik-black.svg?&style=for-the-badge&logo=stepik&logoColor=white alt=stepik style="margin-bottom: 5px;" />
+  </a>  
+  
+  <!--
+  <a href="https://github.com/Manifoldz" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  -->
+  
+  <a href="https://linkedin.com/in/александр-заболотный-a3418120a?trk=contact-info" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
 </div>
 
 <br/>  
@@ -56,9 +57,11 @@
 
 <br/>  
 
-<p align="center">
-  <img width="400" height="250" src="https://leetcard.jacoblin.cool/Manifoldz?ext=heatmap">
-</p>
+<a href="https://leetcode.com/Manifoldz/">
+  <p align="center">
+    <img width="400" height="250" src="https://leetcard.jacoblin.cool/Manifoldz?ext=heatmap">
+  </p>
+</a>
 
   
 <br/>  
