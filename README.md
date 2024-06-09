@@ -55,7 +55,11 @@
 
 ## 🔥 Statistics 
 
-<br/>  
+<br/>
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 <a href="https://leetcode.com/Manifoldz/">
   <p align="center">
@@ -63,6 +67,6 @@
   </p>
 </a>
 
-  
+
 <br/>  
 
