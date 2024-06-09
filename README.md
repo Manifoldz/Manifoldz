@@ -1,4 +1,5 @@
-### <div align="center">Hi, there! I'm Aleksandr, a Backend Developer 👨‍💻 </div>  
+
+<h2 align="center">Hi, there 👋! I'm Aleksandr, a Backend Developer 👨‍💻</h2>
 <br/>  
 
 
@@ -30,8 +31,8 @@
 </div>
 
 
-<br/>  
 
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://t.me/a_s_zabolotnyi" target="_blank">
@@ -45,7 +46,13 @@
 <a href="https://linkedin.com/in/александр-заболотный-a3418120a?trk=contact-info" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+<br/>  
+
+<p align="center">
+  <img width="400" height="250" src="https://leetcard.jacoblin.cool/Manifoldz?ext=heatmap">
+</p>
   
 <br/>  
 
