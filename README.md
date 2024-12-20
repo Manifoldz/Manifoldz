@@ -29,7 +29,7 @@
 - 🛢️ 3 years as an oil and gas well drilling engineer
 - 💻 1 year as a VBA backend developer with using data analysis tools
 - 🔭 Student at a private institution of higher education in computer science "School 21" ([42](https://en.wikipedia.org/wiki/42_(school) "Link to wikipedia")).
-- 🥷🏼 C backend-developer
+- 🏧 C backend-developer
 
 <br/>  
 
