@@ -63,7 +63,7 @@
 
 <a href="https://leetcode.com/Manifoldz/">
   <p align="center">
-    <img width="400" height="250" src="https://leetcard.jacoblin.cool/Manifoldz?ext=heatmap">
+    <img width="400" height="250" src="https://leetcard.jacoblin.cool/Manifoldz">
   </p>
 </a>
 
